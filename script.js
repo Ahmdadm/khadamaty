@@ -1,7 +1,7 @@
 
 let code = [
   {
-    title:"Hi!"
+    title:"شنو ي عمك "
   },
   {
     title:"دكتور"
